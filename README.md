@@ -1,4 +1,4 @@
-github-cross-stitch
-===================
+github-pixel-art
+================
 
-GitHub Cross Stitch
+GitHub Pixel Art
